@@ -15,9 +15,8 @@ Original Introduction:
 ## Download
 
 The converted weights can be downloaded at: 
-```
-链接: https://pan.baidu.com/s/17qUdDSrPhhNTvPnEeI56sg 提取码: p52d
-```
+
+> 链接: https://pan.baidu.com/s/17qUdDSrPhhNTvPnEeI56sg 提取码: p52d
 
 We can load it with [bert4keras](https://github.com/bojone/bert4keras):
 ```python
@@ -41,4 +40,4 @@ print(model.predict([np.array([token_ids]), np.array([segment_ids])]))
 ```
 
 ## Contact
-https://kexue.fm
+- https://kexue.fm
