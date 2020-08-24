@@ -18,6 +18,10 @@ The converted weights can be downloaded at:
 
 > 链接: https://pan.baidu.com/s/17qUdDSrPhhNTvPnEeI56sg 提取码: p52d
 
+or 
+
+> Google Drive: https://drive.google.com/file/d/14Zaq8RE9NMyJb_9B-lkgFZQ9H1K-U-Nf
+
 We can load it with [bert4keras](https://github.com/bojone/bert4keras):
 ```python
 from bert4keras.backend import keras
